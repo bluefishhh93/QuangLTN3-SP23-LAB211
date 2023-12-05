@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab_binarysort">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab_binarysearch/dist/lab_binarysort.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

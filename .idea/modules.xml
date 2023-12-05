@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab211.iml" filepath="$PROJECT_DIR$/.idea/Lab211.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab6v2/Lab6v2.iml" filepath="$PROJECT_DIR$/Lab6v2/Lab6v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam_test/exam_test.iml" filepath="$PROJECT_DIR$/exam_test/exam_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1bt1/lab1bt1.iml" filepath="$PROJECT_DIR$/lab1bt1/lab1bt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_binarysearch/lab_binarysearch.iml" filepath="$PROJECT_DIR$/lab_binarysearch/lab_binarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_bubblesort/lab_bubblesort.iml" filepath="$PROJECT_DIR$/lab_bubblesort/lab_bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_changebasenumber/lab_changebasenumber.iml" filepath="$PROJECT_DIR$/lab_changebasenumber/lab_changebasenumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_count/lab_count.iml" filepath="$PROJECT_DIR$/lab_count/lab_count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_fruitshop/lab_fruitshop.iml" filepath="$PROJECT_DIR$/lab_fruitshop/lab_fruitshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_hashmap/lab_hashmap.iml" filepath="$PROJECT_DIR$/lab_hashmap/lab_hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_largenumber/lab_largenumber.iml" filepath="$PROJECT_DIR$/lab_largenumber/lab_largenumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_linearsearch/lab_linearsearch.iml" filepath="$PROJECT_DIR$/lab_linearsearch/lab_linearsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_nomalizetext/lab_nomalizetext.iml" filepath="$PROJECT_DIR$/lab_nomalizetext/lab_nomalizetext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0021/lab_p0021.iml" filepath="$PROJECT_DIR$/lab_p0021/lab_p0021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0050/lab_p0050.iml" filepath="$PROJECT_DIR$/lab_p0050/lab_p0050.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0051/lab_p0051.iml" filepath="$PROJECT_DIR$/lab_p0051/lab_p0051.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0053/lab_p0053.iml" filepath="$PROJECT_DIR$/lab_p0053/lab_p0053.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0054/lab_p0054.iml" filepath="$PROJECT_DIR$/lab_p0054/lab_p0054.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0055/lab_p0055.iml" filepath="$PROJECT_DIR$/lab_p0055/lab_p0055.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0056/lab_p0056.iml" filepath="$PROJECT_DIR$/lab_p0056/lab_p0056.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0057/lab_p0057.iml" filepath="$PROJECT_DIR$/lab_p0057/lab_p0057.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0058/lab_p0058.iml" filepath="$PROJECT_DIR$/lab_p0058/lab_p0058.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0059/lab_p0059.iml" filepath="$PROJECT_DIR$/lab_p0059/lab_p0059.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0062/lab_p0062.iml" filepath="$PROJECT_DIR$/lab_p0062/lab_p0062.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0063/lab_p0063.iml" filepath="$PROJECT_DIR$/lab_p0063/lab_p0063.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0064/lab_p0064.iml" filepath="$PROJECT_DIR$/lab_p0064/lab_p0064.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0067/lab_p0067.iml" filepath="$PROJECT_DIR$/lab_p0067/lab_p0067.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0070/lab_p0070.iml" filepath="$PROJECT_DIR$/lab_p0070/lab_p0070.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0070v2/lab_p0070v2.iml" filepath="$PROJECT_DIR$/lab_p0070v2/lab_p0070v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0071/lab_p0071.iml" filepath="$PROJECT_DIR$/lab_p0071/lab_p0071.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0078_copyFile/lab_p0078_copyFile.iml" filepath="$PROJECT_DIR$/lab_p0078_copyFile/lab_p0078_copyFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0079_filezip/lab_p0079_filezip.iml" filepath="$PROJECT_DIR$/lab_p0079_filezip/lab_p0079_filezip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0081/lab_p0081.iml" filepath="$PROJECT_DIR$/lab_p0081/lab_p0081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_p0083_stack/lab_p0083_stack.iml" filepath="$PROJECT_DIR$/lab_p0083_stack/lab_p0083_stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_personal/lab_personal.iml" filepath="$PROJECT_DIR$/lab_personal/lab_personal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_quicksort/lab_quicksort.iml" filepath="$PROJECT_DIR$/lab_quicksort/lab_quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thamkao/thamkao.iml" filepath="$PROJECT_DIR$/thamkao/thamkao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thamkhao/thamkhao.iml" filepath="$PROJECT_DIR$/thamkhao/thamkhao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thkh/src/thkh.iml" filepath="$PROJECT_DIR$/thkh/src/thkh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thkh/thkh1.iml" filepath="$PROJECT_DIR$/thkh/thkh1.iml" />
+    </modules>
+  </component>
+</project>
